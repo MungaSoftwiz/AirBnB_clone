@@ -1,0 +1,18 @@
+/*
+ * === CSS stylesheet for global styles ===
+/*
+
+/* Style for the body of the page */
+body {
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Style for the div container class */
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
