@@ -1,0 +1,11 @@
+/* CSS style for the footer tag */
+
+footer {
+    background-color: #0F0;
+    height: 70px;
+    width: 100%;
+    line-height: 70px;
+    bottom: 0;
+    text-align: center;
+    position: absolute;
+}
